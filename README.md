@@ -11,6 +11,7 @@ This repo contains two scripts to help you either **download PDFs** or simply **
 ├── webscraper.py # 🧾 Downloads PDF files of search results
 ├── weblinks.py # 🔗 Extracts and prints PDF links
 ├── screen-capture (1).gif # 🎬 Demo of PDF link extractor
+├── screenshot.png # 📷 Screenshot of arXiv search page
 ```
 
 ---
