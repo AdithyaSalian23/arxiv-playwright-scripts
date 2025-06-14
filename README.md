@@ -10,7 +10,7 @@ This repo contains two scripts to help you either **download PDFs** or simply **
 📁 arxiv-playwright-scripts/
 ├── webscraper.py # 🧾 Downloads PDF files of search results
 ├── weblinks.py # 🔗 Extracts and prints PDF links
-├── demo.gif # 🎬 Demo of PDF link extractor
+├── screen-capture (1).gif # 🎬 Demo of PDF link extractor
 ```
 
 ---
